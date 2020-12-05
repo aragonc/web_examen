@@ -1,0 +1,100 @@
+
+#acerca{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+#acerca .titulo-seccion{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    color: #673ab7;
+}
+#acerca .item{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #673ab7;
+    color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+#acerca p{
+    font-size: 14px;
+    text-align: center;
+}
+#galeria{
+    background-color: #1d2863;
+    padding: 3rem 2rem;
+}
+#galeria img{
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#galeria img:hover{
+    opacity: 0.5;
+}
+#galeria .titulo-juego{
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    background-color: #673ab7;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+#contadores{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+#contadores .numero{
+    color: #673ab7;
+    font-weight: bold;
+    font-size: 32px;
+}
+#contadores .texto{
+    color: #666666;
+    text-transform: uppercase;
+}
+#servicios{
+    background: url(imagenes/fondo.jpg) center center;
+    background-size: cover;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+#servicios .titulo-servicios{
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+#servicios .lista{
+    padding: 2rem;
+    color: #ffffff;
+}
+#servicios .lista h4{
+    text-transform: uppercase;
+    font-size: 16px;
+}
+#piepagina{
+    padding: 1rem 2rem;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 12px;
+}
+#piepagina h4{
+    color: #673ab7;
+    font-weight: bold;
+    font-size: 18px;
+}
+#encabezado{
+    background-color: #2c0c67;
+}
+#encabezado .nav{
+    margin-top: 1rem;
+}
+#encabezado .nav .nav-link{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+}
